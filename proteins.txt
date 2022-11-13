@@ -35,4 +35,8 @@ Pfkm Mouse PFKAM_MOUSE P47857 780
 =======
 Elias added more code to the project
 >>>>>>> elias
+<<<<<<< HEAD
 #################################################
+=======
+Richard made some code changes.
+>>>>>>> be7eea00e3e0da9d259972185d709127b172a83b
