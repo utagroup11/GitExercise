@@ -4,6 +4,7 @@ Hemoglobin-alpha Human HBA_HUMAN P69905
 Hemoglobin-beta Human HBB_HUMAN P68871
 PFKM Human PFKAM_HUMAN P08237
 Pfkm Mouse PFKAM_MOUSE P47857
+<<<<<<< HEAD
 Lysozyme Chicken LYSC_CHICK P00698 147
 Lysozyme Chicken LYSC_CHICK P00698 147
 Lysozyme Chicken LYSC_CHICK P00698 147
@@ -31,3 +32,6 @@ Hemoglobin-beta Human HBB_HUMAN P68871 147
 PFKM Human PFKAM_HUMAN P08237 780
 Pfkm Mouse PFKAM_MOUSE P47857 780
 
+=======
+Elias added more code to the project
+>>>>>>> elias
