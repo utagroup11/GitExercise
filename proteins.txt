@@ -40,3 +40,4 @@ Elias added more code to the project
 =======
 Richard made some code changes.
 >>>>>>> be7eea00e3e0da9d259972185d709127b172a83b
+Conneting jenkins to GitHub
